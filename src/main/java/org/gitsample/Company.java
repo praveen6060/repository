@@ -8,7 +8,7 @@ public class Company {
 	//Change 1
 
 	private String name;
-	
+	// comment added by removing string address address
 	private String salary;
 	private String Emp_salary;
 	public String getName() {
