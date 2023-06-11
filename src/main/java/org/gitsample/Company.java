@@ -9,6 +9,8 @@ public class Company {
 
 	private String name;
 	private String address;
+	private String salary;
+	private String Emp_salary;
 	public String getName() {
 		return name;
 	}
